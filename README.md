@@ -32,6 +32,7 @@ I am currently working on these projects:
 ## Contact Me
 
 - 📫 For direct inquiries, please send me an email at: [mail@turukmoorea.ch](mailto:mail@turukmoorea.ch).
+- 🌈 Pronouns: they/them
 
 ## Meet me
 
