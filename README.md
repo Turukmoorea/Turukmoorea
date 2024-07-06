@@ -31,8 +31,9 @@ I am currently working on these projects:
 
 ## Contact Me
 
-- 📫 For direct inquiries, please send me an email at: [mail@turukmoorea.ch](mailto:mail@turukmoorea.ch).
 - 🌈 Pronouns: they/them
+- 📫 For direct inquiries, please send me an email at: [mail@turukmoorea.ch](mailto:mail@turukmoorea.ch).
+- 🔐 If you want to communicate with me securely, you can find my OpenPGP key under [keys.openpgp.org](https://keys.openpgp.org/search?q=mail%40turukmoorea.ch).
 
 ## Meet me
 
