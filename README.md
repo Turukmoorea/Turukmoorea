@@ -33,7 +33,7 @@ I am currently working on these projects:
 
 - 🌈 Pronouns: they/them
 - 📫 For direct inquiries, please send me an email at: [mail@turukmoorea.ch](mailto:mail@turukmoorea.ch).
-- 🔐 If you want to communicate with me securely, you can find my OpenPGP key under [keys.openpgp.org](https://keys.openpgp.org/search?q=mail%40turukmoorea.ch).
+- 🔐 I prefer encrypted communication. If you would like to communicate securely, you can find my OpenPGP key at [keys.openpgp.org](https://keys.openpgp.org/search?q=mail%40turukmoorea.ch).
 
 ## Meet me
 
