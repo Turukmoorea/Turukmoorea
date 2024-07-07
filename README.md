@@ -8,10 +8,9 @@ Welcome to my GitHub profile! I am a young developer with a passion for technolo
 - 🖥️ I am particularly interested in Linux, System Engineering, and Database Engineering.
 - 📝 I enjoy working with scripting, application, and web development.
 - 🚀 My journey as a developer has just begun, and I am excited to further develop my skills and work on exciting projects.
+- 🌟 Professional tips and tricks are always welcome, and I’m eager to learn from the best in the field!
 
 ## Currently Learning
-
-I am currently focusing on:
 
 ### 🖥️ Programming Languages
 <p align="left">
@@ -34,8 +33,8 @@ I am currently focusing on:
 
 ### 🛠️ Tools and Platforms
 <p align="left">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/WireGuard-88171A?style=for-the-badge&logo=wireguard&logoColor=white" alt="WireGuard" />
 </p>
 
