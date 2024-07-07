@@ -43,8 +43,8 @@ I am currently focusing on:
 
 I am currently working on these projects:
 - **turukmoorea.ch:** My personal developer website.
-- **eso.turukmoorea.ch:** A website dedicated to my guild house in Elder Scrolls Online.
-- **System Development Project:** I am developing a private network with multiple sites connected via VPN, various servers including AD, DNS, GitLab, web servers, and much more.
+- **eso.turukmoorea.ch:** A website dedicated to my guild hall in Elder Scrolls Online.
+- **System Development Project:** I am developing a private network with multiple sites connected via VPN, various servers including AD, DNS, radius server, GitLab, web servers, and much more.
 
 ## 📫 Contact Me
 
