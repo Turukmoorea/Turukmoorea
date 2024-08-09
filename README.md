@@ -12,11 +12,12 @@ Welcome to my GitHub profile! I am a young developer with a passion for technolo
 
 ## Currently Learning
 
-### 🖥️ Programming Languages
+### 🖥️ Programming / Scripting Languages
 <p align="left">
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
 </p>
 
 ### 🌐 Web Development
@@ -36,15 +37,17 @@ Welcome to my GitHub profile! I am a young developer with a passion for technolo
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/WireGuard-88171A?style=for-the-badge&logo=wireguard&logoColor=white" alt="WireGuard" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
 </p>
+
 
 ## 📚 Official Projects
 
 I am currently working on these projects:
+- **System Development Project:** I am developing a private network with multiple sites connected via VPN, various servers including AD, DNS, radius server, GitLab, web servers, and much more.
 - **turukmoorea.ch:** My personal developer website.
 - **eso.turukmoorea.ch:** A website dedicated to my guild hall in Elder Scrolls Online.
-- **System Development Project:** I am developing a private network with multiple sites connected via VPN, various servers including AD, DNS, radius server, GitLab, web servers, and much more.
-
+  
 ## 📫 Contact Me
 
 - 🔐 I prefer encrypted communication. If you would like to communicate securely, you can find my OpenPGP key at [keys.openpgp.org](https://keys.openpgp.org/search?q=mail%40turukmoorea.ch).
