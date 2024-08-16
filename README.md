@@ -45,7 +45,6 @@ Welcome to my GitHub profile! I am a young developer with a passion for technolo
 
 I am currently working on these projects:
 - **System Development Project:** I am developing a private network with multiple sites connected via VPN, various servers including AD, DNS, radius server, GitLab, web servers, and much more.
-- **turukmoorea.ch:** My personal developer website.
 - **eso.turukmoorea.ch:** A website dedicated to my guild hall in Elder Scrolls Online.
   
 ## 📫 Contact Me
